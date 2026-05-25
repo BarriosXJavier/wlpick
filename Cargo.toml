@@ -3,7 +3,11 @@ name = "wlpick"
 version = "0.1.0"
 edition = "2021"
 description = "Wayland color picker"
-license = "GNU General Public License"
+license = "GPL 3.0"
+repository = "https://github.com/BarriosXJavier/wlpick.git"
+readme = "README.md"
+keywords = ["wayland", "color picker", "eyedropper"]
+category = ["command-line-utilies", ["wayland utilities"]]
 
 [dependencies]
 raylib = "5.0"
